@@ -1,5 +1,5 @@
 # Almost-_all_on_objects
-Practise exercise for myself:
+Practise exercise for myself: 🫣
 =============================================================================
 1.Create an object and name it person and give it firstname ,lastname and age
 
