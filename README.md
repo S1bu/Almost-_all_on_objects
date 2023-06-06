@@ -24,3 +24,13 @@ Practise exercise for myself:
 11.use for each to list the values 
 
 12.use for each to list the entries
+
+Logic Questions
+=====================================================
+1.What is an object
+
+2.what will the keys object give you?
+
+3.what will the values object give you?
+
+4.what will the entries object give you?
