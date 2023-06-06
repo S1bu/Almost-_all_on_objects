@@ -27,7 +27,7 @@ Practise exercise for myself:
 
 Logic Questions
 =====================================================
-1.What is an object
+1.What is an object?
 
 2.what will the keys object give you?
 
